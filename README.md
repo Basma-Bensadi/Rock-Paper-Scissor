@@ -5,7 +5,7 @@ A simple **Rock-Paper-Scissors** game built with **HTML, CSS, and JavaScript**. 
 
 ## 🚀 Features  
 - 🎲 **Randomized Computer Choice**  
-- 🎨 **Interactive UI with Animations**  
+- 🎨 **Interactive UI with Transitions**  
 - 📱 **resnonsive design**
 
 ## 🖥️ Live Demo  
