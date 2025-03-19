@@ -9,8 +9,7 @@ A simple **Rock-Paper-Scissors** game built with **HTML, CSS, and JavaScript**. 
 - 📱 **resnonsive design**
 
 ## 🖥️ Live Demo  
-👉 **[Play Now](https://your-live-demo-link.com)** *(Replace this with GitHub Pages link if deployed)*  
-
+👉 **[Play Now]([https://your-live-demo-link.com](https://basma-bensadi.github.io/Rock-Paper-Scissor/))** 
 
 ## Technologies used 
 - **html**
